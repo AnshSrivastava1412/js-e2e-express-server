@@ -1,5 +1,5 @@
 trigger:
-  - main
+  - js-e2e-express-server
 
 pool:
   vmImage: 'ubuntu-latest'
